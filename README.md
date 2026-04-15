@@ -1,9 +1,26 @@
-# SAV-Leclerc-Application
- SAV Leclerc application for iOS & Android made with Xamarin Forms in C#
+# Leclerc Service App
 
-### Informations
+Customer service mobile application built with Xamarin.Forms and C# for iOS and Android.
 
-Application réalisé dans le contexte de mon stage de première année d'étude en BTS SN-IR.  
-Développée sous Xamarin Forms en C#, compatible Android et iOS, et le contenu est stocké sur un serveur (inacessible depuis le code partagé)  
+## Overview
 
+Leclerc Service App is a cross-platform mobile application developed with Xamarin.Forms in C#.
 
+The project targeted both Android and iOS and was built during an internship in a real company context.
+
+## Context
+
+This application was developed during a first-year internship as part of the BTS SN-IR program.
+
+## Tech
+
+- C#
+- Xamarin.Forms
+- iOS
+- Android
+
+## Notes
+
+Part of the application relied on server-side content and services that are not included in this repository.
+
+This repository is kept as an archive of the project in its final state.
